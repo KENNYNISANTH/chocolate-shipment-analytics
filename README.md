@@ -23,3 +23,5 @@ This project ingests an Excel dataset of chocolate shipment records, then builds
   3. **Trend Analysis**: line charts of daily/weekly volumes.
   4. **Detail Table**: filterable order‑level data.
 
+<img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/7c0e0d8d-11c1-48ba-943f-c1178c178268" />
+
